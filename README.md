@@ -1,6 +1,6 @@
-# TSXZone
+# CoffeeApples
 
-TSXZone is a lean and easy-to-use UI library built with TypeScript and React. This project is set up as a monorepo using Turborepo, making it easy to manage multiple packages and applications.
+CoffeeApples is a lean and easy-to-use UI library built with TypeScript and React. This project is set up as a monorepo using Turborepo, making it easy to manage multiple packages and applications.
 
 ## Features
 
@@ -26,8 +26,8 @@ To get a local copy up and running, follow these simple steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/tsxzone.git
-   cd tsxzone
+   git clone https://github.com/your-username/CoffeeApples.git
+   cd CoffeeApples
    ```
 
 2. Install dependencies:
